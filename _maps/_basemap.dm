@@ -13,6 +13,10 @@
 		#include "map_files\IceBoxStation\IceBoxStation.dmm"
 		#include "map_files\tramstation\tramstation.dmm"
 
+		// Semi-modular Start: New Maps
+		#include "map_files\Dart\dart.dmm"
+		// Semi-modular End
+
 		#ifdef CIBUILDING
 			#include "templates.dm"
 		#endif

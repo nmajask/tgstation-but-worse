@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"map_name": "The Dart",
+	"map_path": "map_files/Dart",
+	"map_file": "Dart.dmm",
+	"shuttles": {
+		"emergency": "emergency_box",
+		"ferry": "ferry_fancy",
+		"cargo": "cargo_box",
+		"whiteship": "whiteship_box"
+	}
+}

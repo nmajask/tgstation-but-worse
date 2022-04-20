@@ -17,26 +17,26 @@ map metastation
 	#default
 	minplayers 25
 	#voteweight 0.5
-	votable
+	#votable // Semi-modular
 endmap
 
 map deltastation
 	minplayers 50
-	votable
+	#votable // Semi-modular
 endmap
 
 map kilostation
-	votable
+	#votable // Semi-modular
 endmap
 
 map icebox
 	minplayers 25
-	votable
+	#votable // Semi-modular
 endmap
 
 map tramstation
 	minplayers 35
-	votable
+	#votable // Semi-modular
 endmap
 
 map runtimestation
@@ -44,3 +44,14 @@ endmap
 
 map multiz_debug
 endmap
+
+# // Semi-modular Start: New maps - All the other maps are disabled for reasons
+
+map dart
+	default
+	minplayers 25
+	#voteweight 0.5
+	votable
+endmap
+
+# // Semi-modular End
