@@ -1,76 +1,44 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/obj/structure/chair/comfy/shuttle{
-	dir = 8
-	},
-/obj/item/radio/intercom/directional/north,
-/turf/open/floor/mineral/titanium/blue,
-/area/shuttle/pod_1)
-"f" = (
-/obj/structure/chair/comfy/shuttle{
-	dir = 8
-	},
-/obj/structure/chair/comfy/shuttle{
-	dir = 8
-	},
-/turf/open/floor/mineral/titanium/blue,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
 "h" = (
 /turf/closed/wall/mineral/titanium,
 /area/shuttle/pod_1)
-"k" = (
-/turf/open/floor/mineral/titanium/blue,
-/area/shuttle/pod_1)
-"n" = (
-/obj/effect/turf_decal/trimline/blue/end{
-	dir = 1
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 4
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
+"o" = (
+/obj/structure/chair/comfy/shuttle{
 	dir = 8
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 1
+/obj/structure/chair/comfy/shuttle{
+	dir = 8
 	},
-/turf/open/floor/mineral/titanium/white,
+/obj/machinery/status_display/evac/directional/east,
+/turf/open/floor/mineral/plastitanium/red/brig,
 /area/shuttle/pod_1)
 "s" = (
-/obj/effect/turf_decal/trimline/blue/end,
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
+/obj/structure/table,
+/obj/machinery/recharger{
+	pixel_x = 6;
+	pixel_y = 3
+	},
+/obj/item/book/manual/wiki/security_space_law{
+	pixel_x = -6;
+	pixel_y = 2
+	},
+/obj/machinery/light/directional/north{
 	dir = 4
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 8
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
-"t" = (
-/obj/structure/table,
-/turf/open/floor/mineral/titanium/white,
-/area/shuttle/pod_1)
-"u" = (
+"x" = (
 /obj/structure/chair/comfy/shuttle{
 	dir = 4
 	},
-/obj/item/storage/pod{
-	pixel_x = 5;
-	pixel_y = 29
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
 	},
-/turf/open/floor/mineral/titanium/blue,
-/area/shuttle/pod_1)
-"w" = (
-/obj/machinery/stasis{
-	dir = 8
-	},
-/turf/open/floor/mineral/titanium/white,
-/area/shuttle/pod_1)
-"A" = (
-/obj/machinery/computer/shuttle/monastery_shuttle,
-/obj/machinery/light/directional/north,
-/turf/open/floor/mineral/titanium/blue,
+/obj/machinery/status_display/evac/directional/west,
+/turf/open/floor/mineral/plastitanium/red/brig,
 /area/shuttle/pod_1)
 "D" = (
 /obj/effect/spawner/structure/window/reinforced/shuttle,
@@ -78,28 +46,20 @@
 /area/shuttle/pod_1)
 "E" = (
 /obj/structure/chair/comfy/shuttle{
-	dir = 4
-	},
-/obj/structure/chair/comfy/shuttle{
-	dir = 4
-	},
-/turf/open/floor/mineral/titanium/blue,
-/area/shuttle/pod_1)
-"G" = (
-/obj/machinery/status_display/evac/directional/east,
-/obj/effect/turf_decal/trimline/blue/end{
-	dir = 4
+	dir = 8
 	},
 /obj/machinery/light/directional/north{
 	dir = 4
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 1
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
+/turf/open/floor/mineral/plastitanium/red/brig,
+/area/shuttle/pod_1)
+"H" = (
+/obj/structure/chair/comfy/shuttle{
 	dir = 4
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner,
+/obj/machinery/light/directional/north{
+	dir = 8
+	},
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
 "J" = (
@@ -109,7 +69,19 @@
 /obj/structure/window/reinforced{
 	dir = 1
 	},
-/obj/machinery/computer/operating,
+/obj/structure/chair/comfy/shuttle{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/pod_1)
+"L" = (
+/turf/open/floor/mineral/plastitanium/red/brig,
+/area/shuttle/pod_1)
+"N" = (
+/obj/machinery/door/window/brigdoor{
+	dir = 1;
+	req_access_txt = "2"
+	},
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
 "P" = (
@@ -129,62 +101,48 @@
 /turf/closed/wall/mineral/titanium,
 /area/shuttle/pod_1)
 "R" = (
-/obj/effect/turf_decal/trimline/blue/corner{
-	dir = 4
-	},
-/obj/effect/turf_decal/trimline/blue/corner{
-	dir = 8
-	},
-/obj/effect/turf_decal/trimline/blue/corner{
-	dir = 1
-	},
-/obj/effect/turf_decal/trimline/blue/corner,
-/obj/effect/turf_decal/trimline/blue,
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 4
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 1
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 8
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner,
-/turf/open/floor/mineral/titanium/white,
-/area/shuttle/pod_1)
-"V" = (
 /obj/structure/window/reinforced{
 	dir = 1
 	},
-/obj/machinery/stasis{
-	dir = 8
+/obj/machinery/computer/shuttle/pod{
+	pixel_x = -32
+	},
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
 	},
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
-"W" = (
-/obj/machinery/status_display/evac/directional/west,
-/obj/effect/turf_decal/trimline/blue/end{
-	dir = 8
+"S" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
 	},
-/obj/structure/table/optable,
+/obj/item/storage/pod{
+	pixel_x = -26
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/pod_1)
+"X" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
 /obj/machinery/light/directional/north{
 	dir = 8
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
-	dir = 1
-	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner{
+/turf/open/floor/mineral/plastitanium/red/brig,
+/area/shuttle/pod_1)
+"Y" = (
+/obj/structure/chair/comfy/shuttle{
 	dir = 8
 	},
-/obj/effect/turf_decal/trimline/blue/mid_joiner,
+/obj/item/radio/intercom/directional/east,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/pod_1)
 
 (1,1,1) = {"
 J
 h
-D
-D
+h
+h
 h
 h
 h
@@ -193,38 +151,38 @@ Q
 (2,1,1) = {"
 h
 h
-u
-E
-K
-W
-t
+X
+x
+R
+S
+H
 h
 "}
 (3,1,1) = {"
 D
-A
-k
-k
-n
-R
-s
+L
+L
+L
+N
+a
+a
 P
 "}
 (4,1,1) = {"
 h
 h
-a
-f
-V
-G
-w
+E
+o
+K
+Y
+s
 h
 "}
 (5,1,1) = {"
 J
 h
-D
-D
+h
+h
 h
 h
 h
