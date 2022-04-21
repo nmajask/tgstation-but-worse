@@ -4386,4 +4386,5 @@
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
 #include "interface\skin.dmf"
+#include "modular\code\datums\shuttles.dm"
 // END_INCLUDE
